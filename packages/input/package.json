@@ -1,0 +1,18 @@
+{
+  "name": "@dnh-ui/input",
+  "version": "0.1.0",
+  "description": "description",
+  "main": "dist/dnh-ui-input.cjs.js",
+  "module": "dist/dnh-ui-input.esm.js",
+  "types": "dist/dnh-ui-input.cjs.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngochung04/dnh-ui.git",
+    "directory": "packages/input"
+  },
+  "dependencies": {"react": "^17.0.2"}
+}

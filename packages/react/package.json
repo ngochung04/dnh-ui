@@ -1,0 +1,22 @@
+{
+  "name": "@dnh-ui/react",
+  "version": "0.1.2",
+  "description": "description",
+  "main": "dist/dnh-ui-react.cjs.js",
+  "module": "dist/dnh-ui-react.esm.js",
+  "types": "dist/dnh-ui-react.cjs.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngochung04/dnh-ui.git",
+    "directory": "packages/react"
+  },
+  "dependencies": {
+    "@dnh-ui/button": "latest",
+    "@dnh-ui/input": "latest",
+    "@dnh-ui/badge": "latest"
+  }
+}

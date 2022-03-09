@@ -1,0 +1,18 @@
+{
+  "name": "@dnh-ui/button",
+  "version": "0.1.0",
+  "description": "description",
+  "main": "dist/dnh-ui-button.cjs.js",
+  "module": "dist/dnh-ui-button.esm.js",
+  "types": "dist/dnh-ui-button.cjs.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngochung04/dnh-ui.git",
+    "directory": "packages/button"
+  },
+  "dependencies": {"react": "^17.0.2"}
+}
